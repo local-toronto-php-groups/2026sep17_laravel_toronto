@@ -27,3 +27,6 @@ Schedule:
 
 ## 
 Event at meetup.com: (https://www.meetup.com/laravel-toronto/events/316282186/)[https://www.meetup.com/laravel-toronto/events/316282186/]
+
+##
+- [Ship or Die" Closing Panel and Pitch Competition | Laracon US 2026 (YouTSube)](https://www.youtube.com/watch?v=kIwWbMh5UF4)
