@@ -6,7 +6,7 @@
 
 Laravel Toronto meet-up, Sep 17, 2026 (LaraconUS, PHP 8.6)
 
-- food & beverages sponsored by [Maple.ca]([https://vetster.com](https://www.getmaple.c))
+- food & beverages sponsored by [Maple](https://www.getmaple.ca)
 - Google Map: [https://maps.app.goo.gl/qffRSHAWXRbWWim58](https://maps.app.goo.gl/qffRSHAWXRbWWim58)
 - Thank you to David Chang, , Kwame Boatang, Kate Jeffrey, Tina Goyal , Stuart Starr, and to everyone at Maple, for making this meet-up happen!
 
