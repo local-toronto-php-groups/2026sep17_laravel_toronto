@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/local-toronto-php-groups/groups/2026sep17_laravel_toronto/blob/main/robot_comedian.webp" width="500"/>
+  <img src="https://raw.githubusercontent.com/local-toronto-php-groups/2026sep17_laravel_toronto/main/robot_comedian.webp" width="500"/>
 </p>
 
 # Laravel Toronto meet-up, Sep 17, 2026
