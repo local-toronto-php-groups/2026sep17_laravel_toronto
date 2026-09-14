@@ -19,7 +19,9 @@ Peter and Easton Meth attended LaraconUS 2026 in July. They will share their exp
 
 There is a recap at https://www.phparch.com/podcast/the-php-podcast-2026-08-13/. Which I found interesting.
 
-I am working on a speaker to go over the upcoming PHP 8.6.
+I am going over the upcoming PHP 8.6, and throwing in some other stuff as well.
+
+Nick Whitford from Laravel is joining us in-person to update us. 
 
 Schedule:
 - 6:00pm to 7:00pm: meet-and-greet
