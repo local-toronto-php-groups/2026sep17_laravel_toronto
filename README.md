@@ -32,3 +32,5 @@ Event at meetup.com: (https://www.meetup.com/laravel-toronto/events/316282186/)[
 
 ##
 - [Ship or Die" Closing Panel and Pitch Competition | Laracon US 2026 (YouTSube)](https://www.youtube.com/watch?v=kIwWbMh5UF4)
+- [Bob's presentation slides](https://github.com/local-toronto-php-groups/2026sep17_laravel_toronto/blob/main/2026sep17_bob_presentation1.pdf)
+- [(YouTube video) Stop Writing PHP Like This - 8.6 Fixes It](https://www.youtube.com/watch?v=U9Jrcg1Ns1k)
